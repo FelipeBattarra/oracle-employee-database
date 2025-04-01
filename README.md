@@ -9,6 +9,8 @@ Includes **table creation scripts, constraints, sample data, and sequences**.
 ✔ **Auto-Increment** – ID sequences to manage unique keys.
 
 ## 📂 Database Structure
+![DataBase Structure](https://github.com/user-attachments/assets/82a39d0f-bb33-4d8f-a09e-e31200a5a2a7)
+
 The database includes:
 - **Tables**: Employees, Departments, Jobs, Locations, Countries, Regions.
 - **Constraints**: Primary Keys, Foreign Keys, and Unique Constraints.
